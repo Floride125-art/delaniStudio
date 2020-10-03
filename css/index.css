@@ -36,4 +36,18 @@ body, html {
     margin-top: 3%;
 
   }
- 
+  .jumbotron{
+    background: linear-gradient( rgba(8, 8, 8, 0.5), rgba(17, 16, 16, 0.5) ), url('../img/pic.jpg');
+    color: white;
+    background-attachment: fixed;
+
+
+  }
+  .jumbotron h3{
+    font-size: 20px;
+
+  }
+  .jumbotron p{
+    font-size: 15px;
+
+  }
