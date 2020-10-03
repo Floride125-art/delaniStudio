@@ -51,3 +51,36 @@ body, html {
     font-size: 15px;
 
   }
+  .container{
+    text-align: center;
+  }
+  .container h2{
+    margin-bottom: 4%;
+    font-weight: bold;
+  }
+  #DesignT{
+    display: none;
+  }
+  #developementT{
+    display: none;
+
+  }
+  #planningT{
+    display: none;
+  }
+  #DesignT h3{
+    font-weight: bold;
+  }
+  #what{
+    font-weight: bold;
+  }
+  #developementT h3{
+    font-weight: bold;
+  }
+  #planningT h3{
+    font-weight: bold;
+  }
+  .container{
+    margin-bottom: 3%;
+  }
+ 
