@@ -88,3 +88,12 @@ $(document).ready(function(){
 
 
 });
+
+$(document).ready(function(){
+    $("form").submit(function(){
+        var inputName = $("input#inputName").val();
+        alert(inputName + " we have received your message. Thank you fro reaching out to us.");
+
+    });
+
+});
